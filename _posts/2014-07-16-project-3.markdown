@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2016-04-01
 title: Patagonia Brewing
-img: smartway.jpg
+img: patagonia.jpg
 alt: image-alt
 project-date: Abril 2016
 client: Patagonia Brewing Co Uy
