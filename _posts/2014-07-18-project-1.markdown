@@ -11,5 +11,5 @@ description: Smartway es la primer empresa latinoaméricana especializada en ser
 title: Smartway Flota Management
 tecnologies: [Python, django]
 url: https://onsmartway.com
-tecnical: En el proyecto Smartway participé como desarrollador full stack python-django durante 3 años. /s/s Prueba
+tecnical: En el proyecto Smartway participé como desarrollador full stack python-django durante 3 años. \s\s Prueba
 ---
