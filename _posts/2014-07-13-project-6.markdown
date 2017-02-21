@@ -8,7 +8,7 @@ alt: image-alt
 project-date: Julio 2012
 client: Buscojobs
 category: Full Stack Development
-description: Buscojobs es uno de portal de publicación y búsqueda de empleo y es uno de los más utilizado en Uruguay y Latinoamérica, con un promedio de 800 ofertas activas y aproximadamente unos 100 mil usuarios registrados solo en Uruguay.
+description: Buscojobs es un portal de publicación y búsqueda de empleo, y es uno de los más utilizado en Uruguay y Latinoamérica, con un promedio de 800 ofertas activas y más unos 100 mil usuarios registrados solo en Uruguay.
 tecnologies: [C#, ASP.NET MVC, HTML CSS y Javascript, JQuery, XML, SQL Server]
 tecnical: En Buscojobs participé como desarrollador .NET durante un año, partiendo de una aplicación ya desarrollada y formando parte del desarrollo de nuevas funcionalidades para la misma, así como el mantenimiento general de la plataforma.
 client_url: www.buscojobs.com.uy

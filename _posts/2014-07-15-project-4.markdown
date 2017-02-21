@@ -8,8 +8,8 @@ alt: image-alt
 project-date: Agosto 2016
 client: Racing Kart 26
 category: Full Stack Development
-description: RacingKart es una plataforma para el agilizado y la gestión del almacenamiento de las carreras corridas en una pista de Kartings de la ciudad de Canelones. Tiene como objetivo poder medir los tiempos de una carrera en tiempo real, ingresando manualmente cada vez que un corredor finaliza una vuelta, y al finalizar la misma la generación de un reporte para ser entregado a cada uno de los corredores.
-tecnical: En este proyecto participé como contrato freelance en conjunto con otro desarrollador por el desarrollo completo de la aplicación.
+description: RacingKart es una plataforma para el agilizado y la gestión del almacenamiento de las carreras corridas en una pista de Kartings de la ciudad de Canelones. Tiene como objetivo poder medir los tiempos de una carrera en tiempo real, ingresando manualmente cada vez que un corredor finaliza una vuelta, y al finalizar la carrera se habilita la posibilidad de generar un reporte para ser entregado a cada uno de los corredores.
+tecnical: En este proyecto participé como contrato freelance en conjunto con otro colega por el desarrollo completo de la aplicación.
 tecnologies: [Ruby on Rails, HTML CSS y Javascript, JQuery, Bootstrap, Postgres, Heroku]
 client_url: www.racingkart.com.uy
 ---

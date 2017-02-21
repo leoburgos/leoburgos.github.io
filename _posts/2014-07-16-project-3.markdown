@@ -8,7 +8,7 @@ alt: image-alt
 project-date: Abril 2016
 client: Patagonia Brewing Co Uy
 category: Full Stack Development
-description: Patagonia Brewing Co Uy es la primera cervecería en Uruguay de los propietarios de la cerveza Patagonia. Es una aplicación web con el objetivo de registrar la información de los clientes de la cervecería, ofreciendo a cada cliente registrado un cupón de descuentos enviado vía mail al momento del registro.<br/>Por formar parte de una promoción temporal, la plataforma se encuentra hoy en día deshabilitada.
+description: Patagonia Brewing Co Uy es la primera cervecería en Uruguay de los propietarios de la cerveza Patagonia. El proyecto consta de una aplicación web con el objetivo de registrar la información de los clientes de la cervecería, ofreciendo a cada cliente registrado un cupón de descuentos enviado vía mail al momento del registro.<br/>Por formar parte de una promoción temporal, la plataforma se encuentra hoy en día deshabilitada.
 tecnologies: [Ruby on Rails, HTML CSS y Javascript, JQuery, Bootstrap, Postgres, Heroku]
 tecnical: En Patagonia Brewing Co Uy participé como contrato freelance por el desarrollo completo de la aplicación, partiendo de un diseño de imagen realizado por diseñadores de la cervecería. Consistió desde el maquetado de la web hasta el desarrollo y deploy de la misma.
 client_url: www.patagonia.uy
