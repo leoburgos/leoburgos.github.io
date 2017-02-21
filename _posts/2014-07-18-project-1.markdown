@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Smartway Flota Management
 date: 2014-04
-img: smartway.png
+img: smartway.jpg
 alt: image-alt
 project-date: April 2014
 client: Smartway
@@ -22,7 +22,5 @@ Servidor de Backend encargado de almacenar y procesar la información, y luego p
 Servidor web con acceso privado para los clientes del sistema.
 Bases de datos relacionales Postgres y no-relacionales MongoDB.
 He participado activamente en el desarrollo de cada uno de estos componentes en etapas de diseño e implementación, desde la interacción de bajo nivel con los vehículos hasta el desarrollo de la interfaz web.
-tecnologies: -	Python-Django
-			 -	HTML, CSS y Javascript
-			 -	JQuery
+
 ---
