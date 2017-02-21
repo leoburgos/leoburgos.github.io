@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2015-03-01
-img: cake.png
+img: uruvet.jpg
 title: UruVet
 alt: image-alt
 project-date: Marzo 2015

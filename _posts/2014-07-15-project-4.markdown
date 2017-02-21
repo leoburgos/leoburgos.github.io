@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2016-08-01
 title: RacingKart
-img: game.png
+img: racingkart.jpg
 alt: image-alt
 project-date: Agosto 2016
 client: Racing Kart 26
