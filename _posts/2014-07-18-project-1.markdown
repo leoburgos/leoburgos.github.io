@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Smartway
 category: Full Stack Development
-url: https://www.onsmartway.com
+url: www.onsmartway.com
 description: Smartway es la primer empresa latinoaméricana especializada en servicios telemáticos para vehículos pesados y maquinarias con comunicación con la computadora a bordo (ECU). Propone soluciones inteligentes e innovadoras para brindarle a sus clientes la posibilidad de acceder de forma remota y en tiempo real a los indicadores claves de sus vehículos y maquinarias; permitiéndole aumentar la producción, así como reducir los costos de operación y mantenimiento.
 title: Smartway Flota Management
 tecnologies: [Python-Django, HTML CSS y Javascript, JQuery, Bootstrap, Postgres, MongoDB, Amazon Web Services]

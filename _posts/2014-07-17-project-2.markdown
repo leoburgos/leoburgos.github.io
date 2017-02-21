@@ -8,7 +8,7 @@ alt: image-alt
 project-date: Marzo 2015
 client: Co-Founder
 category: Full Stack Development
-url: http://www.uruvet.com
+url: www.uruvet.com
 description: UruVet es una plataforma web de gestión y mantenimiento de veterinarias, con registro y mantenimiento de usuarios, pago de cuotas, registro de mascotas e historial de registros clínicos de las mismas. Cuenta con un sistema de reportes a demanda, así como registro de consultas médicas y notificaciones configurables para cada veterinario.<br/>En este proyecto participo como co-fundador, fue diseñado y desarrollado en conjunto con un colega con el objetivo de luego ser comercializado en las veterinarias uruguayas. Parte de la falta de informatización de las mismas y de la falta de oferta tecnológica en el mercado local.
 tecnologies: [Ruby on Rails, HTML CSS y Javascript, JQuery, Bootstrap, Postgres, Heroku]
 tecnical: En uruvet participé tanto en el diseño de la aplicación como en el desarrollo completo de la misma, desde la especificación de requerimientos obtenidas con la ayuda de distintos veterinarios hasta el diseño e implementación de la plataforma web.
