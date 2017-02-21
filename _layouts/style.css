@@ -1,2 +1,8 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+ul{
+	text-align: initial;
+}
+p{
+	text-align: justify
+}
