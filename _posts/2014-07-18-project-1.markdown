@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 1
-title: Smartway Flota Management
 date: 2014-04-01
 img: smartway.png
 alt: image-alt
