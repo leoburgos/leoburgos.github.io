@@ -5,9 +5,13 @@ date: 2014-07-18
 img: smartway.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Smartway
 category: Web Development
 description: Smartway es la primer empresa latinoaméricana especializada en servicios telemáticos para vehículos pesados y maquinarias con comunicación con la computadora a bordo (ECU). Smartway propone soluciones inteligentes e innovadoras para brindarle a sus clientes la posibilidad de acceder de forma remota y en tiempo real a los indicadores claves de sus vehículos y maquinarias; permitiéndole aumentar la producción, así como reducir los costos de operación y mantenimiento.
 title: Smartway Flota Management
 tecnologies: [Python, django]
+url: https://onsmartway.com
+tecnical: En el proyecto Smartway participé como desarrollador full stack python-django durante 3 años, siendo en los últimos dos de ellos cabeza del equipo Scrum de desarrollo en el puesto de Scrum Máster. La aplicación cuenta con componentes de bajo nivel que interactúan a nivel de sockets con las computadoras de los vehículos y luego envían la información un servidor de backend vía web service, y luego dicha información es consumida por una plataforma web que ofrece las siguientes funcionalidades a sus clientes:
+Monitoreo de vehículos geolocalizados en tiempo real. Sistema de alarmas de geocercas, combustible, velocidad, carga, con notificaciones en tiempo real. Reportes de flota mensuales o por períodos de tiempo específicos. Sistema de ingreso de labores agrícolas y planificación del uso de suelo, con visualización gráfica de indicadores.
+Mapas de rendimiento de la cosecha. El sistema cuenta con una infraestructura de cluster de servidores AWS para 3 componentes distintos: Servidor de comunicación con vehículos y obtención de información, Servidor de Backend encargado de almacenar y procesar la información, y luego proveerla a la plataforma web, Servidor web con acceso privado para los clientes del sistema, Bases de datos relacionales Postgres y no-relacionales MongoDB, He participado activamente en el desarrollo de cada uno de estos componentes en etapas de diseño e implementación, desde la interacción de bajo nivel con los vehículos hasta el desarrollo de la interfaz web.
 ---
