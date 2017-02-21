@@ -1,12 +1,15 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2016-04-01
+title: Patagonia Brewing
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Abril 2016
+client: Patagonia Brewing Co Uy
+category: Full Stack Development
+description: Patagonia Brewing Co Uy es la primera cervecería en Uruguay de los propietarios de la cerveza Patagonia. Es una aplicación web con el objetivo de registrar la información de los clientes de la cervecería, ofreciendo a cada cliente registrado un cupón de descuentos enviado vía mail al momento del registro.<br/>Por formar parte de una promoción temporal, la plataforma se encuentra hoy en día deshabilitada.
+tecnologies: [Ruby on Rails, HTML CSS y Javascript, JQuery, Bootstrap, Postgres, Heroku]
+tecnical: En Patagonia Brewing Co Uy participé como contrato freelance por el desarrollo completo de la aplicación, partiendo de un diseño de imagen realizado por diseñadores de la cervecería. Consistió desde el maquetado de la web hasta el desarrollo y deploy de la misma.
 
 ---

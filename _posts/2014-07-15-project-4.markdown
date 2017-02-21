@@ -1,12 +1,14 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2016-08-01
+title: RacingKart
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: Agosto 2016
+client: Racing Kart 26
+category: Full Stack Development
+description: RacingKart es una plataforma para el agilizado y la gestión del almacenamiento de las carreras corridas en una pista de Kartings de la ciudad de Canelones. Tiene como objetivo poder medir los tiempos de una carrera en tiempo real, ingresando manualmente cada vez que un corredor finaliza una vuelta, y al finalizar la misma la generación de un reporte para ser entregado a cada uno de los corredores.
+tecnical: En este proyecto participé como contrato freelance en conjunto con otro desarrollador por el desarrollo completo de la aplicación.
+tecnologies: [Ruby on Rails, HTML CSS y Javascript, JQuery, Bootstrap, Postgres, Heroku]
 ---

@@ -1,12 +1,15 @@
 ---
 layout: default
+title: Buscojobs
 modal-id: 6
-date: 2014-07-15
+date: 2012-07-01
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Julio 2012
+client: Buscojobs
+category: Full Stack Development
+description: Buscojobs es uno de portal de publicación y búsqueda de empleo y es uno de los más utilizado en Uruguay y Latinoamérica, con un promedio de 800 ofertas activas y aproximadamente unos 100 mil usuarios registrados solo en Uruguay.
+tecnologies: [C#, ASP.NET MVC, HTML CSS y Javascript, JQuery, XML, SQL Server]
+tecnical: En Buscojobs participé como desarrollador .NET durante un año, partiendo de una aplicación ya desarrollada y formando parte del desarrollo de nuevas funcionalidades para la misma, así como el mantenimiento general de la plataforma.
 
 ---
