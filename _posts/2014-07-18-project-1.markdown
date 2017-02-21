@@ -9,5 +9,5 @@ client: Start Bootstrap
 category: Web Development
 description: Smartway es la primer empresa latinoaméricana especializada en servicios telemáticos para vehículos pesados y maquinarias con comunicación con la computadora a bordo (ECU). Smartway propone soluciones inteligentes e innovadoras para brindarle a sus clientes la posibilidad de acceder de forma remota y en tiempo real a los indicadores claves de sus vehículos y maquinarias; permitiéndole aumentar la producción, así como reducir los costos de operación y mantenimiento.
 title: Smartway Flota Management
-
+tecnologies: [Python, django]
 ---
